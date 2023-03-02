@@ -1,9 +1,1 @@
-<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect width="20" height="20" fill="url(#pattern0)"/>
-<defs>
-<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
-<use xlink:href="#image0_667_192" transform="scale(0.01)"/>
-</pattern>
-<image id="image0_667_192" width="100" height="100" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC+klEQVR4nO3dvWpUURTF8X8IKPgREHwHC9HGQgu1tVNBfAG1EUSwEAsVYie+RFqJ2qSwt1BBLCz1OTTYOC65zEwSJJPMTHLn7H3OWrDb+Vg/zrn3DndmwHEcx3Ecx3Ecp44sA1eBF8AasB5gHtFobgI/AAWcVRrKEvAqQOkyyjDPA5StKecllec8MAhQtIwyzLsABcvb1zAngN8BypVXyjCXApQqo2znRoBC5e1rO7cDlCmvlDpBVMMpcW0gyo5SI4gyo9QKoqwoNYMoI0rtIMqG0gKIMqG0AqIsKC2BKANKayCKjtIiiCKjtAqiqCgtgygiSusgioZiEGKhGIStlXKNADEIWyBdF8VjEAyioOMVQnkEg1C+eINQvmyDUL5gg1C+VIMEKFIGKV+eDFK+MBmkfEkySPliZJDyZSjA+KMTyiMYhPLFG4TyZRuE8gUbhPKlGiRAkTLIYsq5cIjzcIpfq/BpL5PLOdvD/QN39kExCIsF2Q/FICweZC8Ug1AGZBKKQSgHshuKQSgL8j+KQSgPshPFIMwPchl4ssc8BlZmQLkL3CJAsoKsTvEYn2ZEOUKA1Awi4CtwikSpHUTZUFoAUSaUVkCUBaUlEGVAaQ1E0VGygjw74OPPekq8sGQFOQ58OOBzhFwpWUGqRckMUiVKVJAHM7yHldExoYpjSlSQv8D9Gd5HNSslKohaRYkMohZRooOoNZQMIGoJJQuIWkHJBKIWULKBqHaUrH95NBjdmLDoi8eT9JyLAcpVkpXyHjhKzzkGbAYoV8FRFoIxztsAxSrw9rUx4Rah7l+1e8k54E+AYhVwpUxaGd3djl/6PNA/DVCqgqHshTHo++xrafRjwko+g0PaviZtU/d2+RpDrx/dXwe+N46yMQPGeD73idIdrK6M7uxYA9YTzmvgzBwo82CM580hGjgML/rmxejmp1vsP9NijLc6p8fs9zXqnfMNON3ni2k9y8BHY8TKNBePXhmBUIwRCMUYlE13ndJdZ/wanU3tegD/B19tqp0qNxTnAAAAAElFTkSuQmCC"/>
-</defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 1024 1024"><path fill="#efeff0" d="M832 512a32 32 0 1 1 64 0v352a32 32 0 0 1-32 32H160a32 32 0 0 1-32-32V160a32 32 0 0 1 32-32h352a32 32 0 0 1 0 64H192v640h640V512z"/><path fill="#efeff0" d="m469.952 554.24l52.8-7.552L847.104 222.4a32 32 0 1 0-45.248-45.248L477.44 501.44l-7.552 52.8zm422.4-422.4a96 96 0 0 1 0 135.808l-331.84 331.84a32 32 0 0 1-18.112 9.088L436.8 623.68a32 32 0 0 1-36.224-36.224l15.104-105.6a32 32 0 0 1 9.024-18.112l331.904-331.84a96 96 0 0 1 135.744 0z"/></svg>

@@ -1,9 +1,1 @@
-<svg width="15" height="16" viewBox="0 0 15 16" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect y="0.5" width="15" height="15" fill="url(#pattern0)"/>
-<defs>
-<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
-<use xlink:href="#image0_258_1588" transform="scale(0.01)"/>
-</pattern>
-<image id="image0_258_1588" width="100" height="100" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAACXBIWXMAAAsTAAALEwEAmpwYAAADkElEQVR4nO2dPWsVQRSG9xrtxcIq3jO5Kv6A1PHO2XNu7BSRARGMlSAiRvxAsYlNUAsLJZVNgmks/AeC2PiNRBQb/RnpJIkyxpjckI+bZHdnNvM+sHVm5sk5Z+bMsjfLAAAAAAAAAAAAAGpD//DwAco7p42Vq4ZlnFgeGKujA3nHtTqdg6HHlwZjY3sMywixvDZW5gzr7zUfK/OG5R3lemlwcHBf6GHvSgbyvEMs39aVsM5DLD99JIUe/67CWB1d/K/fmoxuMfo4c64v9FzqjXN9hmVyJyJWPS982gs9rXriXB9ZeVagjH/1Re+Hnlo9ZbBMFy5j8VkwVk6FnmJ9cCVFRneh/4HdV/jIWP1c7GlMKWNYRiqS4WvJ29DzrQMNsvqkGiEyjxN9bzQMy0QVUppWzvQ4puRpVBIpVkeTX+n/LJ6aG1nASPENyQ3+fnpbW7LydDMp5UaKjFc463qcMyiglIFcr2RJ49Y7Z8hEoPR1MksWt/EJvOpIIdZf1G7vz5LE9dYOqVSK1VdZkrittkOqSV/Eei5LDre9RmHZkUKsX9O7F3E7bRSWFClW5prcybOkcMW00EuKlJtZUriiW+hFRopMZknhyrlcKiJSiPV51m7vzZLBlXvTtxMpkMHxSIEMjkdKmjK4sjvwLRZ6PZ/Wi3Gu/LdDdhgpCeHCyoCUCGVASoQy0pbiQhXwHoSwTKOAcywyUtza2vjSFGRweAGQgciIBKSpiICMiICMiICMiICMiICMiICMiICMiICMiICMiICMiICMiICMuCDWqThb6JLYTZ+XYeV66IU3kLHiQ5Gss6EX3yR/ubQUHax3Qi++QZrqSldfQgswSb+QsILWcT0aWoCBjGXI6t3QEgwiYxnDMhNahEk9TS3RFGmFFmEgI67dFSEyljFWP0NGJDSHOgN/v02LyIgDY/U2ZEQEsXxCzYgEap8wIdIVoYCvjWG5BRkRQVY/IDIi4fDQ8KEq0xUhTW0MWb0BGRHhPy5fUWRMJXftGmO6ItZZyvVa6LnWAr9Q5cmQGd8b89fBoeeZbrqy+p1Y7hnmY6HnVjuOtNv9haQrSCgGsnJ5mxIWyOpHf5j0DcmChgMM66MtSWB577/M6dssWL0SMFYubCbB1xj/wlxLtVnGGMAK/M+/EevL7nog88bqG7/78ltiLFjVjI3toXZ+llgf+l9I9oW+8jEAAAAAAAAAAAAAZFXxB+W6XkWSEOdeAAAAAElFTkSuQmCC"/>
-</defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="#efeff0" d="m19.3 8.925l-4.25-4.2l1.4-1.4q.575-.575 1.413-.575t1.412.575l1.4 1.4q.575.575.6 1.388t-.55 1.387L19.3 8.925ZM17.85 10.4L7.25 21H3v-4.25l10.6-10.6l4.25 4.25Z"/></svg>
