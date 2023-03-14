@@ -1,6 +1,6 @@
 <svg width="153" height="153" viewBox="0 0 153 153" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_817_15)">
-<path d="M76.5 153C118.75 153 153 118.75 153 76.5C153 34.2502 118.75 0 76.5 0C34.2502 0 0 34.2502 0 76.5C0 118.75 34.2502 153 76.5 153Z" fill="#C8C8C8"/>
+<path d="M76.5 153C118.75 153 153 118.75 153 76.5C153 34.2502 118.75 0 76.5 0C34.2502 0 0 34.2502 0 76.5C0 118.75 34.2502 153 76.5 153Z" fill="#efeff0"/>
 <mask id="mask0_817_15" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="36" y="30" width="84" height="90">
 <path d="M120 30H36V120H120V30Z" fill="white"/>
 </mask>
